@@ -1,4 +1,4 @@
-# Construction Project Management Mobile App
+# XGBoost Model in a Construction Project Management App
 
 A construction project management system with a React Native Expo mobile application and a Python-based machine learning service.
 
